@@ -56,3 +56,5 @@ config.ini
 
 # Claude IDE
 .claude/
+
+drugs/
