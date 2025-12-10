@@ -1,0 +1,14 @@
+{
+  "variable_name": "Effect on ECMO",
+  "drug_name": "meropenem",
+  "value": "significant impact on PK",
+  "metadata": {
+    "evidence_summary": "ECMO significantly alters the pharmacokinetics of meropenem in pediatric patients, with changes in clearance and volume of distribution requiring tailored dosing. Continuous infusion regimens achieved therapeutic levels, but variability in clearance and distribution was observed across studies.",
+    "sample_description": "n=1 pediatric patient on ECMO; 1 prospective observational study; 1 case report",
+    "citations": [
+      "pqac-6de6711f",
+      "pqac-4d3380ab",
+      "pqac-ecdde1cc"
+    ]
+  }
+}
